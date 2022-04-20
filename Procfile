@@ -1,1 +1,1 @@
-worker: python3 Pythonfastspam.py
+worker: python3 Godinvisibklespam.py
